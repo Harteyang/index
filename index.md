@@ -14,15 +14,15 @@ layout: default
 
 ## 经历过的企业
 
-成都超有爱科技（百词斩）【】
+成都超有爱科技（[百词斩](https://www.baicizhan.com/)）【背单词TOP】
 
-旷视科技（[Face++](www.megvii.com)）【AI领域TOP】
+旷视科技（[Face++](https://www.megvii.com)）【AI领域TOP】
 
 成都果小美科技有限公司【无人新零售TOP】
 
 北京今目标科技【国内最早做企业办公IM】
 
-[IObit](www.iobit.com) Co, Ltd.【系统安全软件、欧美版的腾讯管家和360安全卫士】
+[IObit](https://www.iobit.com) Co, Ltd.【系统安全软件、欧美版的腾讯管家和360安全卫士】
 
 
 ## 很感激的上级
