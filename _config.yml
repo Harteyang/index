@@ -1,6 +1,6 @@
 title: 杨强
-url: ""
-baseurl: "https://harteyang.github.io/index/"
+url: "https://harte.top"
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
