@@ -16,8 +16,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "主页"
-   link: "/"
  - name: "简历"
    link: "resume.pdf"
  - name: "博客"
