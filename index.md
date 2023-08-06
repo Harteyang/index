@@ -36,5 +36,8 @@ layout: default
 1. [刘帅成](http://www.liushuaicheng.org/)
 2. 二郎神（王毕才）
 3. 周勇
-4. 
+
+## 读书学习
+
+[微信读书书单]()|[人力资源100问]()
 
