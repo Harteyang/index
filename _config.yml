@@ -1,6 +1,6 @@
 title: 杨强
 url: "https://harte.top"
-baseurl: "/index"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
