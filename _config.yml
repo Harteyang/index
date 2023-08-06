@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "主页"
-   link: "https://harteyang.github.io/index/"
+   link: "/"
  - name: "简历"
    link: "resume.pdf"
  - name: "博客"
