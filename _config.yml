@@ -1,6 +1,6 @@
-title: Harte
+title: 杨强
 url: ""
-baseurl: "/blog"
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "主页"
-   link: "/blog/"
+   link: "/index/"
  - name: "简历"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "博客"
+   link: "blog"

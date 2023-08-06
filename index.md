@@ -4,7 +4,7 @@ layout: default
 
 ## 个人简介
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="sherlock.jpeg">
 
 拥有13年的HR经验，在IT互联网、人工智能、在线教育行业积累了丰富的行业知识；
 
