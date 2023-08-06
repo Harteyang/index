@@ -1,6 +1,6 @@
 title: 杨强
-url: ""
-baseurl: "/index"
+url: "harte.top"
+baseurl: "https://harteyang.github.io/index/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "主页"
-   link: "/index/"
+   link: "https://harteyang.github.io/index/"
  - name: "简历"
    link: "resume.pdf"
  - name: "博客"
-   link: "https://harteyang.github.io/blog/"
+   link: "https://harteyang.github.io/post/"
