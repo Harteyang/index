@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Harte的主页
+
 ---
 
 ## 个人简介
