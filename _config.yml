@@ -17,6 +17,6 @@ sass:
 
 nav:
  - name: "简历"
-   link: "resume.pdf"
+   link: "https://blog.harte.top"
  - name: "博客"
    link: "https://blog.harte.top"
