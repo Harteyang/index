@@ -19,9 +19,9 @@ title: Harte的主页
 
 ## 经历的企业
 
-成都超有爱科技（[百词斩](https://www.baicizhan.com/)）【背单词TOP】<img class="profile-picture" src="sherlock.jpeg">
+成都超有爱科技（[百词斩](https://www.baicizhan.com/)）【背单词TOP】
 
-旷视科技（[Face++](https://www.megvii.com)）【AI领域TOP】<img class="profile-picture" src="sherlock.jpeg">
+旷视科技（[Face++](https://www.megvii.com)）【AI领域TOP】
 
 成都果小美科技有限公司【无人新零售TOP】
 
