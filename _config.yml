@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "Last Update: 2023.8.4.   All Rights Reserved."
+footer_text: "更新于2023年12月29日，作者保留所有权利。"
 
 sass:
     style: compressed
