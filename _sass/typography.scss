@@ -35,6 +35,7 @@
         margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
         font-style: italic;
+        font-size: 18px; /* 调整引用字体大小 */
     }
     .profile-picture {
         height: $image-size;
@@ -57,5 +58,5 @@
         text-align: center;
         width: 100%;
     }
-    font-size: 16px; /* 设置内容区域的字体大小 */
+    font-size: 18px; /* 调整内容区域字体大小 */
 }
