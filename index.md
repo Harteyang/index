@@ -31,10 +31,10 @@ title: Harte的主页
 
 | 时间          | 进展                                                        | 主要价值    |
 | ------------- | ------------------------------------------------------------ | -------- |
-| 2023.10    | - 开始研究[AI异议处理对练工具](https://role-play-marketing.cya-tech.cn/)<br/>- 11月正式上线雅思异议处理对练<br/>- 所有sku异议处理AI对练工具12月上线 |- 降低了新人培训中模拟练习的成本<br/>- 增加了模拟练习的频次，加强了用户沟通体感<br/>-   覆盖了主要的用户问题    |
-| 2023.09     | - 开始研究雅思作业AI批改工具<br/>- 销售团队[雅思写作批改工具demo](https://udify.app/completion/LquONQ5Ygi53tMZD)[图片](https://s11.ax1x.com/2024/01/02/piXzidK.png)9月底上线<br/>- 运营团队[雅思小作文批改工具(图片)](https://s11.ax1x.com/2024/01/02/piXz9qx.jpg)10月上线 |-  解决了批改正确率低的问题<br/>- 增加了批改效率<br/>- 降低了批改老师的人数节约了人力成本         |
-| 2023.08    | - 研究GPT在销售团队的提效<br/>- 编程产品的Roleplay工具10月上线<br/>- 6个英语sku销售团队的[Roleplay工具](https://udify.app/chat/V1fQgsa0qOeaUYkF)11月上线 |- 解决了新人线上销售缺乏全流程体感的问题<br/>- 降低了新人培训中模拟练习的成本<br/>- 增加了模拟练习的频次，加强了用户沟通体感          |
-| 2023.03     | - 开始研究GPT在人力资源领域的应用<br/>- 第一版[AI模拟面试Demo](https://pan.baidu.com/s/1EGH7p1PGDP3Ckw79_v9C9A?pwd=yh4w) 4月底上线 |- 为HR团队在AI领域的研究奠定了基础          |
+| 2023.10    | - 开始研究<a href="https://role-play-marketing.cya-tech.cn/" target="_blank">AI异议处理对练工具</a><br/>- 11月正式上线雅思异议处理对练<br/>- 所有sku异议处理AI对练工具12月上线 |- 降低了新人培训中模拟练习的成本<br/>- 增加了模拟练习的频次，加强了用户沟通体感<br/>-   覆盖了主要的用户问题    |
+| 2023.09     | - 开始研究雅思作业AI批改工具<br/>- 销售团队<a href="https://udify.app/completion/LquONQ5Ygi53tMZD" target="_blank">雅思写作批改工具demo</a><a href="https://s11.ax1x.com/2024/01/02/piXzidK.png" target="_blank">[图片]</a>9月底上线<br/>- 运营团队<a href="https://s11.ax1x.com/2024/01/02/piXz9qx.jpg" target="_blank">雅思小作文批改工具(图片)</a>10月上线 |-  解决了批改正确率低的问题<br/>- 增加了批改效率<br/>- 降低了批改老师的人数节约了人力成本         |
+| 2023.08    | - 研究GPT在销售团队的提效<br/>- 编程产品的Roleplay工具10月上线<br/>- 6个英语sku销售团队的<a href="https://udify.app/chat/V1fQgsa0qOeaUYkF" target="_blank">Roleplay工具</a>11月上线 |- 解决了新人线上销售缺乏全流程体感的问题<br/>- 降低了新人培训中模拟练习的成本<br/>- 增加了模拟练习的频次，加强了用户沟通体感          |
+| 2023.03     | - 开始研究GPT在人力资源领域的应用<br/>- 第一版<a href="https://pan.baidu.com/s/1EGH7p1PGDP3Ckw79_v9C9A?pwd=yh4w" target="_blank">AI模拟面试Demo</a>4月底上线 |- 为HR团队在AI领域的研究奠定了基础          |
 
 
 
